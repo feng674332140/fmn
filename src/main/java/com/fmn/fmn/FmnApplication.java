@@ -8,7 +8,7 @@ public class FmnApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(FmnApplication.class, args);
-        System.out.print(1111);
+        //System.out.print(1111);
     }
 
 }
